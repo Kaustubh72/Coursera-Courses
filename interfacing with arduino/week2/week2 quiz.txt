@@ -1,0 +1,47 @@
+1.Question 1
+Which Arduino function can be used to read information from a sensor?
+
+c. digitalRead()
+
+2.Question 2
+A photoresistor:
+
+d. changes resistance according to light level
+
+
+3.Question 3
+A voltage divider is:
+
+c. a circuit that contains resistors connected in series
+
+
+4.Question 4
+True or False: A voltage-controlling sensor can be read by an Arduino using the analogRead() function.
+
+True
+
+5.Question 5
+In order to perform On-Off actuation, the following Arduino command might be used:
+
+
+c. digitalWrite()
+
+
+6.Question 6
+The function of a Digital to Analog Converter is:
+
+
+a. to generate an analog voltage from digital signals
+
+
+7.Question 7
+Which Arduino command is used to generate a pulse width modulated signal?
+
+
+a. analogWrite()
+
+
+8.Question 8
+The duty cycle of a signal describes:
+
+d. the fraction of time it is high
